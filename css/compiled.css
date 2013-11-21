@@ -6045,6 +6045,10 @@ td.visible-print {
     display: none !important;
   }
 }
+.affix {
+  width: 100%;
+  top: 0;
+}
 @media (max-width: 767px) {
   
 }
