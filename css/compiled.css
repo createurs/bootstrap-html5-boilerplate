@@ -6046,6 +6046,7 @@ td.visible-print {
   }
 }
 .affix {
+  z-index: 1030;
   width: 100%;
   top: 0;
 }
