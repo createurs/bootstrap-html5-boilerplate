@@ -6050,6 +6050,13 @@ td.visible-print {
   width: 100%;
   top: 0;
 }
+.affix ~ div {
+  padding-top: 80px;
+}
+.navbar {
+  border: none;
+  margin-bottom: 30px;
+}
 @media (max-width: 767px) {
   
 }

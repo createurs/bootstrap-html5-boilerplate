@@ -57,8 +57,16 @@
   z-index: @zindex-navbar-fixed;
   width: 100%;
   top: 0;
+  ~ div {
+    // Next element clears navbar height and margin when fixed.
+    padding-top: @navbar-height + @grid-gutter-width;
+  }
 }
 
+.navbar {
+  border: none;
+  margin-bottom: @grid-gutter-width;
+}
 
 // Media Queries
 
