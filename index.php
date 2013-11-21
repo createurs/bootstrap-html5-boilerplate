@@ -23,7 +23,10 @@
 
     <div class="wrapper">
 
-      <!-- Full width jumbotron example -->
+      <!-- FULL WIDTH JUMBOTRON / CAROUSEL EXAMPLES -->
+      <!-- ======================================== -->
+
+      <!-- Full width jumbotron -->
       <div class="jumbotron">
         <h1>Hello, world!</h1>
         <p>This is a template for a simple marketing or informational website. It includes a large callout called a jumbotron and three supporting pieces of content. Use it as a starting point to create something more unique.</p>
@@ -72,10 +75,84 @@
         </a>
       </div><!-- end #carousel -->
 
+
+      <!-- STICKY NAVIGATION EXAMPLE -->
+      <!-- ========================= -->
+      <nav class="navbar navbar-inverse sticky-nav affix-top" role="navigation" data-spy="affix">
+        <!-- Brand and toggle get grouped for better mobile display -->
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#sticky-nav">
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="#">Brand</a>
+        </div>
+        <!-- Collect the nav links, forms, and other content for toggling -->
+        <div class="collapse navbar-collapse" id="sticky-nav">
+          <ul class="nav navbar-nav">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">Link</a></li>
+            <li><a href="#">Link</a></li>
+          </ul>
+        </div><!-- /.navbar-collapse -->
+      </nav>
+
+      <!-- GENERAL CONTENT BLOCK EXAMPLES -->
+      <!-- ======================== -->
       <div class="container">
         <div class="row">
-          <div class="col-xs-12">
+          <div class="col-md-3">
             <!-- Start building here -->
+          </div>
+          <div class="col-md-9">
+            <h1>A Flight to Remember</h1>
+            <p>You are the last hope of the universe. I feel like I was mauled by Jesus. So, how 'bout them Knicks? Stop! Don't shoot fire stick in space canoe! Cause explosive decompression! Hello Morbo, how's the family?</p>
+            <h2>War Is the H-Word</h2>
+            <p>You'll have all the Slurm you can drink when you're partying with Slurms McKenzie! Ok, we'll go deliver this crate like professionals, and then we'll go ride the bumper cars. I videotape every customer that comes in here, so that I may blackmail them later. I guess if you want children beaten, you have to do it yourself. Yes, I saw. You were doing well, until everyone died. Ow, my spirit!</p>
+            <ul>
+            <li>Bender, you risked your life to save me!</li>
+            <li>Wow, you got that off the Internet? In my day, the Internet was only used to download pornography.</li>
+            <li>Isn't it true that you have been paid for your testimony?</li>
+            <li>And when we woke up, we had these bodies.</li>
+            </ul>
+            <h3>A Pharaoh to Remember</h3>
+            <p>Why would I want to know that? I was all of history's great robot actors - Acting Unit 0.8; Thespomat; David Duchovny! It doesn't look so shiny to me. I am the man with no name, Zapp Brannigan! Have you ever tried just turning off the TV, sitting down with your children, and hitting them?</p>
+            <h4>Fear of a Bot Planet</h4>
+            <p>Good man. Nixon's pro-war and pro-family. Bender, I didn't know you liked cooking. That's so cute. Isn't it true that you have been paid for your testimony? Ah, the 'Breakfast Club' soundtrack!  I can't wait til I'm old enough to feel ways about stuff! Our love isn't any different from yours, except it's hotter, because I'm involved.</p>
+            <ol>
+            <li>Robot 1-X, save my friends!  And Zoidberg!</li>
+            <li>Why would I want to know that?</li>
+            <li>She also liked to shut up!</li>
+            <li>Anyone who laughs is a communist!</li>
+            </ol>
+            <h5>Insane in the Mainframe</h5>
+            <p>Oh, how I wish I could believe or understand that! There's only one reasonable course of action now: kill Flexo! That's the ONLY thing about being a slave. A true inspiration for the children. In our darkest hour, we can stand erect, with proud upthrust bosoms. Negative, bossy meat creature! There, now he's trapped in a book I wrote: a crummy world of plot holes and spelling errors!</p>
+
+            <h1>A Flight to Remember</h1>
+            <p>You are the last hope of the universe. I feel like I was mauled by Jesus. So, how 'bout them Knicks? Stop! Don't shoot fire stick in space canoe! Cause explosive decompression! Hello Morbo, how's the family?</p>
+            <h2>War Is the H-Word</h2>
+            <p>You'll have all the Slurm you can drink when you're partying with Slurms McKenzie! Ok, we'll go deliver this crate like professionals, and then we'll go ride the bumper cars. I videotape every customer that comes in here, so that I may blackmail them later. I guess if you want children beaten, you have to do it yourself. Yes, I saw. You were doing well, until everyone died. Ow, my spirit!</p>
+            <ul>
+            <li>Bender, you risked your life to save me!</li>
+            <li>Wow, you got that off the Internet? In my day, the Internet was only used to download pornography.</li>
+            <li>Isn't it true that you have been paid for your testimony?</li>
+            <li>And when we woke up, we had these bodies.</li>
+            </ul>
+            <h3>A Pharaoh to Remember</h3>
+            <p>Why would I want to know that? I was all of history's great robot actors - Acting Unit 0.8; Thespomat; David Duchovny! It doesn't look so shiny to me. I am the man with no name, Zapp Brannigan! Have you ever tried just turning off the TV, sitting down with your children, and hitting them?</p>
+            <h4>Fear of a Bot Planet</h4>
+            <p>Good man. Nixon's pro-war and pro-family. Bender, I didn't know you liked cooking. That's so cute. Isn't it true that you have been paid for your testimony? Ah, the 'Breakfast Club' soundtrack!  I can't wait til I'm old enough to feel ways about stuff! Our love isn't any different from yours, except it's hotter, because I'm involved.</p>
+            <ol>
+            <li>Robot 1-X, save my friends!  And Zoidberg!</li>
+            <li>Why would I want to know that?</li>
+            <li>She also liked to shut up!</li>
+            <li>Anyone who laughs is a communist!</li>
+            </ol>
+            <h5>Insane in the Mainframe</h5>
+            <p>Oh, how I wish I could believe or understand that! There's only one reasonable course of action now: kill Flexo! That's the ONLY thing about being a slave. A true inspiration for the children. In our darkest hour, we can stand erect, with proud upthrust bosoms. Negative, bossy meat creature! There, now he's trapped in a book I wrote: a crummy world of plot holes and spelling errors!</p>
+
+
           </div>
         </div>
       </div>
