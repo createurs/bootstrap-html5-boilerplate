@@ -8,7 +8,7 @@
         </ul>
       </div>
       <div class="col-xs-12 col-sm-6">
-        <span class="credits">
+        <span class="credits pull-right">
           Site by <a href="http://createur.com.au" target="_blank">Createur</a>
         </span>
       </div>
