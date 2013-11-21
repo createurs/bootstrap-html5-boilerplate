@@ -99,59 +99,156 @@
       </nav>
 
       <!-- GENERAL CONTENT BLOCK EXAMPLES -->
-      <!-- ======================== -->
+      <!-- ============================== -->
       <div class="container">
         <div class="row">
-          <div class="col-md-3">
-            <!-- Start building here -->
+          <div class="col-md-7">
+
+            <!-- BREADCRUMB EXAMPLE -->
+            <!-- ============================== -->
+
+            <ol class="breadcrumb">
+              <li><a href="#">Home</a></li>
+              <li><a href="#">Category</a></li>
+              <li class="active">Current Page</li>
+            </ol>
+
+            <h1>A Flight to Remember</h1>
+            <p>You are the last hope of the universe. I feel like I was mauled by Jesus. So, how 'bout them Knicks? Stop! Don't shoot fire stick in space canoe! Cause explosive decompression! Hello Morbo, how's the family?</p>
+            <h2>War Is the H-Word</h2>
+            <p>You'll have all the Slurm you can drink when you're partying with Slurms McKenzie! Ok, we'll go deliver this crate like professionals, and then we'll go ride the bumper cars. I videotape every customer that comes in here, so that I may blackmail them later. I guess if you want children beaten, you have to do it yourself. Yes, I saw. You were doing well, until everyone died. Ow, my spirit!</p>
+            <ul>
+            <li>Bender, you risked your life to save me!</li>
+            <li>Wow, you got that off the Internet? In my day, the Internet was only used to download pornography.</li>
+            <li>Isn't it true that you have been paid for your testimony?</li>
+            <li>And when we woke up, we had these bodies.</li>
+            </ul>
+            <h3>A Pharaoh to Remember</h3>
+            <p>Why would I want to know that? I was all of history's great robot actors - Acting Unit 0.8; Thespomat; David Duchovny! It doesn't look so shiny to me. I am the man with no name, Zapp Brannigan! Have you ever tried just turning off the TV, sitting down with your children, and hitting them?</p>
+            <h4>Fear of a Bot Planet</h4>
+            <p>Good man. Nixon's pro-war and pro-family. Bender, I didn't know you liked cooking. That's so cute. Isn't it true that you have been paid for your testimony? Ah, the 'Breakfast Club' soundtrack!  I can't wait til I'm old enough to feel ways about stuff! Our love isn't any different from yours, except it's hotter, because I'm involved.</p>
+            <ol>
+            <li>Robot 1-X, save my friends!  And Zoidberg!</li>
+            <li>Why would I want to know that?</li>
+            <li>She also liked to shut up!</li>
+            <li>Anyone who laughs is a communist!</li>
+            </ol>
+            <h5>Insane in the Mainframe</h5>
+            <p>Oh, how I wish I could believe or understand that! There's only one reasonable course of action now: kill Flexo! That's the ONLY thing about being a slave. A true inspiration for the children. In our darkest hour, we can stand erect, with proud upthrust bosoms. Negative, bossy meat creature! There, now he's trapped in a book I wrote: a crummy world of plot holes and spelling errors!</p>
+            <hr>
+
+            <!-- THUMBNAIL EXAMPLES -->
+            <!-- ============= -->
+            <h3>Thumbnail grid</h3>
+            <div class="row">
+              <div class="col-sm-6 col-md-3">
+                <a href="#" class="thumbnail">
+                  <img src="http://placehold.it/600x600" alt="">
+                </a>
+              </div>
+              <div class="col-sm-6 col-md-3">
+                <a href="#" class="thumbnail">
+                  <img src="http://placehold.it/600x600" alt="">
+                </a>
+              </div>
+              <div class="col-sm-6 col-md-3">
+                <a href="#" class="thumbnail">
+                  <img src="http://placehold.it/600x600" alt="">
+                </a>
+              </div>
+              <div class="col-sm-6 col-md-3">
+                <a href="#" class="thumbnail">
+                  <img src="http://placehold.it/600x600" alt="">
+                </a>
+              </div>
+              <div class="col-sm-6 col-md-3">
+                <a href="#" class="thumbnail">
+                  <img src="http://placehold.it/600x600" alt="">
+                </a>
+              </div>
+              <div class="col-sm-6 col-md-3">
+                <a href="#" class="thumbnail">
+                  <img src="http://placehold.it/600x600" alt="">
+                </a>
+              </div>
+              <div class="col-sm-6 col-md-3">
+                <a href="#" class="thumbnail">
+                  <img src="http://placehold.it/600x600" alt="">
+                </a>
+              </div>
+              <div class="col-sm-6 col-md-3">
+                <a href="#" class="thumbnail">
+                  <img src="http://placehold.it/600x600" alt="">
+                </a>
+              </div>
+            </div>
+
+
           </div>
-          <div class="col-md-9">
-            <h1>A Flight to Remember</h1>
-            <p>You are the last hope of the universe. I feel like I was mauled by Jesus. So, how 'bout them Knicks? Stop! Don't shoot fire stick in space canoe! Cause explosive decompression! Hello Morbo, how's the family?</p>
-            <h2>War Is the H-Word</h2>
-            <p>You'll have all the Slurm you can drink when you're partying with Slurms McKenzie! Ok, we'll go deliver this crate like professionals, and then we'll go ride the bumper cars. I videotape every customer that comes in here, so that I may blackmail them later. I guess if you want children beaten, you have to do it yourself. Yes, I saw. You were doing well, until everyone died. Ow, my spirit!</p>
-            <ul>
-            <li>Bender, you risked your life to save me!</li>
-            <li>Wow, you got that off the Internet? In my day, the Internet was only used to download pornography.</li>
-            <li>Isn't it true that you have been paid for your testimony?</li>
-            <li>And when we woke up, we had these bodies.</li>
-            </ul>
-            <h3>A Pharaoh to Remember</h3>
-            <p>Why would I want to know that? I was all of history's great robot actors - Acting Unit 0.8; Thespomat; David Duchovny! It doesn't look so shiny to me. I am the man with no name, Zapp Brannigan! Have you ever tried just turning off the TV, sitting down with your children, and hitting them?</p>
-            <h4>Fear of a Bot Planet</h4>
-            <p>Good man. Nixon's pro-war and pro-family. Bender, I didn't know you liked cooking. That's so cute. Isn't it true that you have been paid for your testimony? Ah, the 'Breakfast Club' soundtrack!  I can't wait til I'm old enough to feel ways about stuff! Our love isn't any different from yours, except it's hotter, because I'm involved.</p>
-            <ol>
-            <li>Robot 1-X, save my friends!  And Zoidberg!</li>
-            <li>Why would I want to know that?</li>
-            <li>She also liked to shut up!</li>
-            <li>Anyone who laughs is a communist!</li>
-            </ol>
-            <h5>Insane in the Mainframe</h5>
-            <p>Oh, how I wish I could believe or understand that! There's only one reasonable course of action now: kill Flexo! That's the ONLY thing about being a slave. A true inspiration for the children. In our darkest hour, we can stand erect, with proud upthrust bosoms. Negative, bossy meat creature! There, now he's trapped in a book I wrote: a crummy world of plot holes and spelling errors!</p>
+          <div class="col-md-5">
+            <div class="well">
+              <p>This is an example form, demonstrating all common form components used frequently in website builds.</p>
+            </div>
 
-            <h1>A Flight to Remember</h1>
-            <p>You are the last hope of the universe. I feel like I was mauled by Jesus. So, how 'bout them Knicks? Stop! Don't shoot fire stick in space canoe! Cause explosive decompression! Hello Morbo, how's the family?</p>
-            <h2>War Is the H-Word</h2>
-            <p>You'll have all the Slurm you can drink when you're partying with Slurms McKenzie! Ok, we'll go deliver this crate like professionals, and then we'll go ride the bumper cars. I videotape every customer that comes in here, so that I may blackmail them later. I guess if you want children beaten, you have to do it yourself. Yes, I saw. You were doing well, until everyone died. Ow, my spirit!</p>
-            <ul>
-            <li>Bender, you risked your life to save me!</li>
-            <li>Wow, you got that off the Internet? In my day, the Internet was only used to download pornography.</li>
-            <li>Isn't it true that you have been paid for your testimony?</li>
-            <li>And when we woke up, we had these bodies.</li>
-            </ul>
-            <h3>A Pharaoh to Remember</h3>
-            <p>Why would I want to know that? I was all of history's great robot actors - Acting Unit 0.8; Thespomat; David Duchovny! It doesn't look so shiny to me. I am the man with no name, Zapp Brannigan! Have you ever tried just turning off the TV, sitting down with your children, and hitting them?</p>
-            <h4>Fear of a Bot Planet</h4>
-            <p>Good man. Nixon's pro-war and pro-family. Bender, I didn't know you liked cooking. That's so cute. Isn't it true that you have been paid for your testimony? Ah, the 'Breakfast Club' soundtrack!  I can't wait til I'm old enough to feel ways about stuff! Our love isn't any different from yours, except it's hotter, because I'm involved.</p>
-            <ol>
-            <li>Robot 1-X, save my friends!  And Zoidberg!</li>
-            <li>Why would I want to know that?</li>
-            <li>She also liked to shut up!</li>
-            <li>Anyone who laughs is a communist!</li>
-            </ol>
-            <h5>Insane in the Mainframe</h5>
-            <p>Oh, how I wish I could believe or understand that! There's only one reasonable course of action now: kill Flexo! That's the ONLY thing about being a slave. A true inspiration for the children. In our darkest hour, we can stand erect, with proud upthrust bosoms. Negative, bossy meat creature! There, now he's trapped in a book I wrote: a crummy world of plot holes and spelling errors!</p>
-
+            <!-- FORM EXAMPLES -->
+            <!-- ============= -->
+            <h2>Submit an enquiry</h2>
+            <form role="form">
+              <div class="form-group">
+                <label for="">First Name</label>
+                <input type="name" class="form-control" placeholder="eg. John">
+              </div>
+              <div class="form-group">
+                <label for="">Last Name</label>
+                <input type="name" class="form-control" placeholder="eg. Smith">
+              </div>
+              <div class="form-group">
+                <label for="">Email address</label>
+                <input type="email" class="form-control" id="" placeholder="something@example.com">
+              </div>
+              <div class="form-group">
+                <label for="">How can we help?</label>
+                <textarea class="form-control" rows="6"></textarea>
+              </div>
+              <div class="form-group">
+                <label for="exampleInputFile">File input</label>
+                <input type="file" id="exampleInputFile">
+                <p class="help-block">Example block-level help text here.</p>
+              </div>
+              <div class="form-group">
+                <label for="">Select and option below:</label>
+                <div class="radio">
+                  <label>
+                    <input type="radio" name="optionsRadios" id="optionsRadios1" value="option1" checked>
+                    Radio option example 1
+                  </label>
+                </div>
+                <div class="radio">
+                  <label>
+                    <input type="radio" name="optionsRadios" id="optionsRadios2" value="option2">
+                    Radio option example 2
+                  </label>
+                </div>
+              </div>
+              <hr>
+              <div class="form-group">
+                <label for="">What's your favorite colour?</label>
+                <select class="form-control">
+                  <option>Blue</option>
+                  <option>Green</option>
+                  <option>Red</option>
+                  <option>Yellow</option>
+                  <option>Orange</option>
+                </select>
+              </div>
+              <hr>
+              <div class="checkbox">
+                <label>
+                  <input type="checkbox" checked="true"> Yes, I'd like to subscribe to the newsletter
+                </label>
+              </div>
+              <button type="submit" class="btn btn-success">Submit</button>
+            </form>
 
           </div>
         </div>
