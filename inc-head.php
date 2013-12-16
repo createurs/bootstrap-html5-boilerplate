@@ -10,6 +10,30 @@
 <!-- Site title -->
 <title>HTML5 Bootstrap Boilerplate</title>
 
+<!-- Facebook Open Graph tags -->
+<!-- Test implementation with debug tool: https://developers.facebook.com/tools/debug -->
+<meta property="og:site_name" content="The name of the website you're sharing"/>
+<meta property="og:url" content="http://example.com" />
+<meta property="og:description" content="Description of the thing you're sharing. It is recommended to a minimum of 2 sentences in length." />
+<!-- If the client has a Facebook app, use the below -->
+<meta property="fb:app_id" content="[FB_APP_ID]" />
+<!-- Type of object being shared. Added semantic value -->
+<meta property="og:type" content="article" />
+<meta property="article:author" content="http://URLofauthor.com" />
+<meta property="article:publisher" content="http://URLofpublisher.com" />
+
+<!-- og:image is used across Facebook, Google +, LinkedIn -->
+<meta property="og:image" content="http://image-location.jpg" />
+
+<!-- Twitter Card meta data -->
+<!-- https://dev.twitter.com/docs/cards/large-image-summary-card -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@twitterhandle">
+<meta name="twitter:creator" content="@twitterhandle">
+<meta name="twitter:title" content="Title of page being shared on Twitter">
+<meta name="twitter:description" content="Description of the thing you're sharing. It is recommended to a minimum of 2 sentences in length.">
+<meta name="twitter:image:src" content="http://image-location.jpg">
+
 <!-- Stylesheets -->
 <link rel="stylesheet" type="text/css" media="screen" href="css/compiled.css" />
 
