@@ -1,5 +1,5 @@
     <!-- JS core -->
-    <script src="js/jquery.js"></script> 
+    <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
 
     <!-- Bootstrap core -->
     <script src="js/transition.js"></script>
@@ -14,6 +14,3 @@
     <script src="js/collapse.js"></script>
     <script src="js/carousel.js"></script>
     <script src="js/affix.js"></script>
-
-    <!-- Customisations -->
-    <script src="js/custom.js"></script>
